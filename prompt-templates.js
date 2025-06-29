@@ -14,7 +14,7 @@ const promptTemplate = ChatPromptTemplate.fromMessages([
 
 const promptValue = await promptTemplate.invoke({
   language: "spanish",
-  text: "hi!",
+  text: "hello, i like cats",
 });
 
 promptValue;
