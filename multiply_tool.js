@@ -35,4 +35,4 @@ console.log("AI Response: ", response1.content);
 console.log(response1.description);
 console.log(multiply.name);
 console.log(multiply.description);
-//console.log("Tool calls: ", res;ponse1.tool_calls);
+//console.log("Tool calls: ", response1.tool_calls);
